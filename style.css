@@ -18,6 +18,16 @@
 	left: 40%; 
 }
 
+.Simsquare {
+	width: 310px;
+	height: 260px;
+	background: #D9AB91;
+	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5); /*первый блок */
+	position: absolute;
+	top: 70%;
+	left: 5%; 
+}
+
 a:link {
 	color: #4E4873; /* Цвет ссылок */
 }

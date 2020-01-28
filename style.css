@@ -1,6 +1,6 @@
 .square {
 	width: 560px;
-	height: 100px;
+	height: 160px;
 	background: #D9AB91;
 	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5); /*первый блок */
 	position: absolute;
@@ -44,7 +44,7 @@ font {
 
 a {
 	text-decoration: none;
-	padding: 10px;
+	padding: 30px;
 	line-height: 1.5em;
 }
 

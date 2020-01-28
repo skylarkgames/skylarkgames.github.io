@@ -1,11 +1,11 @@
 .square {
-	width: 310px;
-	height: 260px;
+	width: 560px;
+	height: 160px;
 	background: #D9AB91;
 	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5); /*первый блок */
 	position: absolute;
 	top: 10%;
-	left: 5%; 
+	left: 30%; 
 }
 
 .DWsquare {
@@ -14,8 +14,8 @@
 	background: #D9AB91;
 	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5);	
 	position: absolute;
-	top: 10%;
-	left: 40%; 
+	top: 60%;
+	left: 30%; 
 }
 
 .Simsquare {

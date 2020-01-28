@@ -1,22 +1,31 @@
 .square {
-width: 310px;
-height: 310px;
-background: #FFDBC4;
-box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5);
-}
-.koor {
+	width: 310px;
+	height: 310px;
+	background: #FFDBC4;
+	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5); /*первый блок */
 	position: absolute;
 	top: 10%;
-	left: 5%;
+	left: 5%; 
 }
+
+.DWsquare {
+	widows: 430px;
+	height: 660px;
+	background: #FFDBC4;
+	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5);	
+	position: absolute;
+	top: 10%;
+	left: 40%; 
+}
+
 a:link {
-color: #806D62; /* Цвет ссылок */
+	color: #806D62; /* Цвет ссылок */
 }
 a:visited {
-color: #806D62; /* Цвет посещенных ссылок */
+	color: #806D62; /* Цвет посещенных ссылок */
 }
 a:active {
-color: #806D62; /* Цвет активной ссылки */ 
+	color: #806D62; /* Цвет активной ссылки */ 
 } 
 a {
 	text-decoration: none;

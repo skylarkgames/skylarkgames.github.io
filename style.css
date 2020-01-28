@@ -9,8 +9,8 @@
 }
 
 .DWsquare {
-	widows: 430px;
-	height: 660px;
+	width: 560px;
+	height: 745px;
 	background: #D9AB91;
 	box-shadow: 0.4em 0.4em 5px rgba(24, 15, 3,0.5);	
 	position: absolute;
@@ -27,13 +27,23 @@ a:visited {
 a:active {
 	color: #4E4873; /* Цвет активной ссылки */ 
 } 
+font {
+	color: #4E4873; 
+	face: Roboto;
+}
+
 a {
 	text-decoration: none;
 	padding: 10px;
 	line-height: 1.5em;
 }
-h3 {
+
+h1 {
+	padding: 15px;
+	color: #4E4873;
+}
+p {
 	padding: 10px;
-	line-height: 1.5em;	
-	color: #4E4873
+	line-height: 1.2em;	
+	color: #4E4873;
 }
